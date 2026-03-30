@@ -26,16 +26,8 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/krheena "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li> 
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/krheena "><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+## Support Me
 
 [<img src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay" width="BUTTON_WIDTH"/>](krheena786-4@oksbi)
 
-<a href="krheena786-4@oksbi">Support me via Google Pay</a>
 
- </ul> 
