@@ -36,6 +36,6 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
 
 [<img src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay" width="BUTTON_WIDTH"/>](krheena786-4@oksbi)
 
-
+<a href="krheena786-4@oksbi">Support me via Google Pay</a>
 
  </ul> 
