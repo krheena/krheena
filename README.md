@@ -32,8 +32,10 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/krheena "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li> 
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/krheena "><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li> </ul> 
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/krheena "><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kr_heena) 
+[<img src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay" width="BUTTON_WIDTH"/>](krheena786-4@oksbi)
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="(https://paypal.me/kr_heena "><img src="https://paypal.com/buttons/v2/default-yellow.png" width="150"/></a></li> 
+
+
+ </ul> 
