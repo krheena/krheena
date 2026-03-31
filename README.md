@@ -22,11 +22,7 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
 
 <a href="http://www.github.com/krheena"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&stroke=14b8a6&background=7f1d1d&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-## Top Repositories 
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-## Support Me
+## 😍 Support Me
 
 [<img src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay" width="BUTTON_WIDTH"/>](krheena786-4@oksbi)
 
