@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome To My Profile
-==============================================================================================================================
+<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" > Welcome To My Profile </h1>                                                                               
 
-Python | Machine Learning | MySQL
----------------------------------
+ 
+<h2 align="center"> Python | Machine Learning | MySQL </h2>
+
+
+<h3 align="Left">A passionate backend developer from Punjab</h3>
+
 
 I've learning the code from 3 years and am done my 6 month training in Python Machine Learning ...
 
 * 🌍  I'm based in Punjab, india
 * ✉️  You can contact me at [krheenababu@gmail.com](mailto:krheenababu@gmail.com)
-
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=32&pause=997&color=345DF7&center=true&vCenter=true&width=435&lines=Hy+There+;Am+Heena%2C+From+Punjab)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
@@ -25,5 +25,9 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
 ## 😍 Support Me
 
 [<img src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay" width="BUTTON_WIDTH"/>](krheena786-4@oksbi)
+
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=32&pause=997&color=345DF7&center=true&vCenter=true&width=500&lines=thank+you+;for+visting%2C+my+Profile)](https://git.io/typing-svg)
+
 
 
