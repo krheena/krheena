@@ -1,3 +1,21 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krheena.krheena&"  />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=32&pause=997&color=345DF7&center=true&vCenter=true&width=500&lines=Hy+There+;Welcme+To%2C+My+Profile)](https://git.io/typing-svg)
 
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" >I'm HEENA </h1>
@@ -47,13 +65,15 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
   
 </div>
 
+<h3 align="left">🔥  My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=krheena&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png">
 </p>
-
-<div align="center">
-<a href="http://www.github.com/krheena"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&stroke=14b8a6&background=7f1d1d&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /> </a>
-</div>
 
 ## 😍 Support Me
 
