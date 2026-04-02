@@ -42,15 +42,20 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
 
 
  <div align="center">
+    <h2 align="center">GitHub Profile Trophy</h2>
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
   
 </div>
 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png">
+</p>
+
 
 <div align="center">
+ <h2 align="left">  📊 My GitHub Stats </h2>  
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&" alt="krheena" />
-  <h2 align="center">  📊 My GitHub Stats </h2> 
+  
 </div>
 
 ## 😍 Support Me
