@@ -1,23 +1,13 @@
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" > Welcome To My Profile </h1>                                                                               
+<h1 align="center"> I'm HEENA </h1>
 
- 
 <h2 align="center"> Python | Machine Learning | MySQL </h2>
 
-
-<h3 align="Left">A passionate backend developer from Punjab</h3>
-
+<h3 align="Left">🌍  I'm based in Punjab</h3>
 
 I've learning the code from 3 years and am done my 6 month training in Python Machine Learning ...
 
-* 🌍  I'm based in Punjab, india
 * ✉️  You can contact me at [krheenababu@gmail.com](mailto:krheenababu@gmail.com)
-
-
-# Hi 👋, I'm HEENA
-
-### Python Machine Learning Engineer 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krheena&label=Profile views&color=0e75b6&style=flat" alt="krheena" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krheena" alt="krheena" /></a> </p>
 
@@ -49,12 +39,25 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
 
+
+ <div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆GitHub Stat Trophies </p>
+</div>
+
+
 # 📊 My GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&" alt="krheena" /></p>
 
 ## 😍 Support Me
 
-<a href="krheena786-4@oksbi" target="blank"> <img src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" class="center" alt="Google Pay" alt="Kr_Heena" height="260" width="200" /></a>
+<div align="center">
+  <img width="200" src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay"/>
+  <h2 align="center"> scan and pay </h2> 
+  <p align="center"> Google  pay </p>
+</div>
+
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=32&pause=997&color=345DF7&center=true&vCenter=true&width=500&lines=thank+you+;for+visting%2C+my+Profile)](https://git.io/typing-svg)
 
