@@ -103,3 +103,7 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krheena/krheena/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krheena/krheena/output/pacman-contribution-graph.svg">
 </picture>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/krheena/krheena/output/snake.svg" alt="Snake animation" />
