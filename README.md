@@ -1,9 +1,10 @@
-<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" > Welcome To My Profile </h1>                                                                               
-<h1 align="center"> I'm HEENA </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=32&pause=997&color=345DF7&center=true&vCenter=true&width=500&lines=Hy+There+;Welcme+To%2C+My+Profile)](https://git.io/typing-svg)
 
+<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" >I'm HEENA </h1>
+                                                                              
 <h2 align="center"> Python | Machine Learning | MySQL </h2>
 
-<h3 align="Left">🌍  I'm based in Punjab</h3>
+<h3 align="Left">🌍  I'm from Punjab </h3>
 
 I've learning the code from 3 years and am done my 6 month training in Python Machine Learning ...
 
@@ -43,23 +44,20 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
  <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆GitHub Stat Trophies </p>
+  
 </div>
 
 
-# 📊 My GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&" alt="krheena" /></p>
+<div align="center">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&" alt="krheena" />
+  <h2 align="center">  📊 My GitHub Stats </h2> 
+</div>
 
 ## 😍 Support Me
 
 <div align="center">
-  <img width="200" src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay"/>
+  <img width="150" src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay"/>
   <h2 align="center"> scan and pay </h2> 
   <p align="center"> Google  pay </p>
 </div>
-
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=32&pause=997&color=345DF7&center=true&vCenter=true&width=500&lines=thank+you+;for+visting%2C+my+Profile)](https://git.io/typing-svg)
-
-
 
