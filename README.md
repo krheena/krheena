@@ -106,4 +106,4 @@ I've learning the code from 3 years and am done my 6 month training in Python Ma
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/krheena/krheena/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/krheena/krheena/blob/heena/snake.yml" alt="Snake animation" />
