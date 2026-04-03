@@ -46,9 +46,8 @@ I've learning the coding from 3 years in Python, MySQL, data analysis, and Machi
 <h3 align="left">🔥  My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=krheena&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&theme=dark&hide_border=false" alt="krheena" /></p>
 </div>
-
 ## 😍 Support Me
 
 <div align="center">
