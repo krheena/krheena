@@ -32,7 +32,7 @@
 
 I've learning the coding from 3 years in Python, MySQL, data analysis, and Machine Learning, Artificial intelligence ...
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="70%" />
 
 <h2 align="left"> 🌐 Connect with me(Socials):</h2>
 <div align="center">
