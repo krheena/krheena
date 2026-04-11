@@ -1,89 +1,4 @@
 <div align="center">
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=krheena&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-  </a>
-  
-</div>
-
-<div align="center">
-  
-<!-- GitHub Stats + Custom Streak in ONE ROW -->
-<a href="https://github.com/krheena">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krheena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/krheena">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
-  </a>
-  
-  <br/><br/>
-  
-
-  
- <!-- Activity Graph -->
-  <a href="https://github.com/krheena">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krheena&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
-  </a>
-  
-  <br/><br/>
-
-   <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red1-for-hek&theme=tokyonight" width="95%" alt="Profile Details"/>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-game.svg" width="280"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- Pac-Man Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
-  
-  <br/>
-  
-  <sub>👾 Watch Pac-Man devour my contributions!</sub>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <div align="center">
@@ -149,12 +64,7 @@ I've learning the coding from 3 years in Python, MySQL, data analysis, and Machi
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krheena&theme=dark&hide_border=false" alt="krheena" /></p>
 </div>
-## 😍 Support Me
 
-<div align="center">
-  <img width="150" src="https://github.com/krheena/krheena/blob/heena/scanner.jpeg" alt="Google Pay"/>
-  <h2 align="center"> scan and pay </h2> 
-  <p align="center"> Google  pay </p>
-</div>
-
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krheena&theme=tokyonight" width="95%" alt="Profile Details"/>
+ 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=32&pause=997&color=345DF7&center=true&vCenter=true&width=500&lines=Thanks+For+;Visiting+The%2C+My+Profile)](https://git.io/typing-svg)
