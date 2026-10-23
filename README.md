@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Heena%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20%7C%20Machine%20Learning%20%7C%20MySQL%20%7%C%20HPC&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Heena%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20%7C%20Machine%20Learning%20%7C%20MySQL%20%7C%20HPC&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
